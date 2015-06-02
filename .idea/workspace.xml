@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="546d99e7-db21-4e6f-b755-af0408802b27" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/a_name_error.rb" afterPath="$PROJECT_DIR$/lib/a_name_error.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/a_syntax_error.rb" afterPath="$PROJECT_DIR$/lib/a_syntax_error.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/a_type_error.rb" afterPath="$PROJECT_DIR$/lib/a_type_error.rb" />
-    </list>
+    <list default="true" id="546d99e7-db21-4e6f-b755-af0408802b27" name="Default" comment="" />
     <ignored path="ruby-lecture-reading-error-messages-web-0615.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -36,10 +32,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a_type_error.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a_division_by_zero_error.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/a_division_by_zero_error.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1111112">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07025761">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a_type_error.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/a_type_error.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.075">
+            <state vertical-scroll-proportion="-1.1111112">
               <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
@@ -57,6 +73,8 @@
         <option value="$PROJECT_DIR$/lib/a_name_error.rb" />
         <option value="$PROJECT_DIR$/lib/a_syntax_error.rb" />
         <option value="$PROJECT_DIR$/lib/a_type_error.rb" />
+        <option value="$PROJECT_DIR$/lib/a_division_by_zero_error.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -209,6 +227,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/a_type_error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1111112">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/no_ruby_errors_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -217,10 +243,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/a_type_error.rb">
+    <entry file="file://$PROJECT_DIR$/lib/a_division_by_zero_error.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.075">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state vertical-scroll-proportion="-1.1111112">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07025761">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
